@@ -10,9 +10,18 @@ This project was completed in three phases:
 
 During Phase 1, my team was tasked with selecting a neighborhood within Tartu, Estonia to develop a spatial plan relating to greenspaces. After selecting the Karlova neighborhood, We conducted a theoretical overview of greenspace management and researched greenspace policies, trends, etc. in order to better refine our project's aim and vision. To assist this process, we received instruction about planning theory, Estonian urban planning, contemporary planning topics, and visionmaking.
 
+- **Aim:** Identify spatially informed strategies for strengthening green infrastructure in Karlova while respecting the neighbourhood’s historic urban form.
+  
+- **Vision:** Create a Karlova where historic wooden heritage and vibrant green networks coexist, ensuring every resident benefits from an accessible, resilient, and interconnected urban nature.
+
 ### Phase 2
 
 During Phase 2, my team performed several quantitative analyses via spatial analysis and statistical testing in order to ground our interventions in updated data conclusions. For my specific contribution, I calculated green index values, derived from binary classification of Normalized Difference Vegetation Index (NDVI) measurements, within Karlova's historic residential core, which quantified the percentage of greenery within each 100m × 100m grid cell. My methodology loosely followed the methodology of *Urban Neighborhood Green Index – A measure of green spaces in urban areas (doi: [10.1016/j.landurbplan.2012.01.003](https://doi.org/10.1016/j.landurbplan.2012.01.003))*. A full R Markdown analysis script and knitted HTML output (view in browser for full results including plots and statistical outputs) can be viewed in this repository's folder titled `Green Index Calculations — Karlova Residential Core`.
+
+**Guiding Questions:**
+- How does green connectivity differ across Karlova?
+- How does access to green spaces differ across Karlova?
+- Where is the best location to expand green space presence in Karlova?
 
 ### Phase 3
 
