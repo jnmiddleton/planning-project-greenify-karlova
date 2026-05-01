@@ -82,6 +82,8 @@ Greenness distributions were compared across subregions using non-parametric met
 |------|-------------|
 | `green_index_calculation_karlova.Rmd` | Full R Markdown analysis script |
 | `green_index_calculation_Karlova.html` | Knitted HTML output (view in browser for full results including plots and statistical outputs) |
+| `greenness_metrics_by_subregion_karlova_residential_core.pdf` | PDF map, created in QGIS, of the residential core study area spatially contextualized within Karlova's borders |
+| `residential_core_spatially_contextualized_in_karlova.pdf ` | PDF map, created in QGIS, of the delinated subregions and the green index classifications across the study area |
 
 ---
 
@@ -98,5 +100,7 @@ Greenness distributions were compared across subregions using non-parametric met
 Green Index Calculations - Karlova Residential Core/
     ├── README.md
     ├── green_index_calculation_karlova.Rmd
-    └── green_index_calculation_Karlova.html
+    ├── green_index_calculation_Karlova.html
+    ├── greenness_metrics_by_subregion_karlova_residential_core.pdf
+    └── residential_core_spatially_contextualized_in_karlova.pdf 
 ```
