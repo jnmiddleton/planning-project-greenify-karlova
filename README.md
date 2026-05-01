@@ -26,6 +26,7 @@ During Phase 3, my team combined our various spatial and statistical analyses to
 planning-project-greenify-karlova/
     README.md
     Green Index Calculations - Karlova Residential Core/
+        ├── .gitattributes
         ├── README.md
         ├── green_index_calculation_karlova.Rmd
         ├── green_index_calculation_Karlova.html
