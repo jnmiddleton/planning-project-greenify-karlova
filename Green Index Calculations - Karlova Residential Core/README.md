@@ -98,6 +98,7 @@ Greenness distributions were compared across subregions using non-parametric met
 ## Repository Structure
 ```
 Green Index Calculations - Karlova Residential Core/
+    ├── .gitattributes
     ├── README.md
     ├── green_index_calculation_karlova.Rmd
     ├── green_index_calculation_Karlova.html
