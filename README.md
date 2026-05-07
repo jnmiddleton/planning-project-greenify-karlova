@@ -40,5 +40,8 @@ planning-project-greenify-karlova/
         ├── green_index_calculation_karlova.Rmd
         ├── green_index_calculation_Karlova.html
         ├── greenness_metrics_by_subregion_karlova_residential_core.pdf
-        └── residential_core_spatially_contextualized_in_karlova.pdf 
+        └── residential_core_spatially_contextualized_in_karlova.pdf
+    Phase 3 Planning Report and Layouts
+        ├── final_rimi_parking_lot_greenification_karlova_middletonj.pdf
+        └── final_subregion7and8_overview_karlova_middletonj.pdf
 ```
