@@ -93,7 +93,7 @@ Greenness distributions were compared across subregions using non-parametric met
 
 - Subregion boundaries were manually delineated in QGIS based on land use polygons and joined to Green Index cells by spatial containment. A residual category was created for cells that did not fall within any defined subregion boundary.
 - The export step (`writeVector`) and Excel export (`write_xlsx`) are commented out in the script by default to prevent accidental overwrites.
-- Results were validated visually in QGIS after each step in the workflow.
+- THe final results, prior to statistical testing, were validated visually in QGIS.
 
 ---
 
