@@ -36,9 +36,11 @@ planning-project-greenify-karlova/
     README.md
     Green Index Calculations - Karlova Residential Core/
         ├── .gitattributes
+        ├── Green_Cover_By_Subregion_Dunn_Post_Hoc_Letters.png
         ├── README.md
         ├── green_index_calculation_karlova.Rmd
         ├── green_index_calculation_Karlova.html
+        ├── greenness_classification_by_subregion_table.png
         ├── greenness_metrics_by_subregion_karlova_residential_core.pdf
         └── residential_core_spatially_contextualized_in_karlova.pdf
     Phase 3 Planning Report and Layouts
